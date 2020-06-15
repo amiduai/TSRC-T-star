@@ -1,5 +1,7 @@
 # TSRC
-漏洞挖掘学习之路。
+漏洞挖掘学习之路。 
+![image](https://github.com/amiduai/TSRC/blob/master/pics/QQ%E5%9B%BE%E7%89%8720200611230535.jpg)  
+
 
 ## tools  
 [burp suite installation](https://blog.csdn.net/LUOBIKUN/article/details/87457545?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase)   
