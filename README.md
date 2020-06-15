@@ -3,22 +3,25 @@
 
 
 
-## tools  
+## tools and environments
 [burp suite installation](https://blog.csdn.net/LUOBIKUN/article/details/87457545?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase)   
-[sqlmap](https://github.com/sqlmapproject/sqlmap)
+[sqlmap](https://github.com/sqlmapproject/sqlmap)  
+[phpStudy](https://www.xp.cn/)
 
 ## platforms and tutorials
 
 
-#### SQL-injection
+#### 1.SQL-injection
+
 [Sqli-labs](https://github.com/Audi-1/sqli-labs)  
-Sqli-laba配套攻略
-1.http://dummy2dummies.blogspot.com
-2.http://www.securitytube.net/user/Audi
-3.https://www.facebook.com/sqlilabs
+
+Sqli-labs配套攻略  
+1.http://dummy2dummies.blogspot.com  
+2.http://www.securitytube.net/user/Audi  
+3.https://www.facebook.com/sqlilabs  
 
 
-#### Others
+#### 2.Others
 [Pikachu](https://github.com/zhuifengshaonianhanlu/pikachu)  
 [云演实战靶场](http://www.yunyansec.com/#/range)  
 
