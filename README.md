@@ -7,11 +7,16 @@
 [burp suite installation](https://blog.csdn.net/LUOBIKUN/article/details/87457545?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase)   
 [sqlmap](https://github.com/sqlmapproject/sqlmap)
 
-## platforms
+## platforms and tutorials
 
 
 #### SQL-injection
 [Sqli-labs](https://github.com/Audi-1/sqli-labs)  
+Sqli-laba配套攻略
+1.http://dummy2dummies.blogspot.com
+2.http://www.securitytube.net/user/Audi
+3.https://www.facebook.com/sqlilabs
+
 
 #### Others
 [Pikachu](https://github.com/zhuifengshaonianhanlu/pikachu)  
