@@ -6,7 +6,8 @@
 ## tools and environments
 [burp suite installation](https://blog.csdn.net/LUOBIKUN/article/details/87457545?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase)   
 [sqlmap](https://github.com/sqlmapproject/sqlmap)  
-[phpStudy](https://www.xp.cn/)
+[phpStudy](https://www.xp.cn/)  
+火狐插件hackerbar  
 
 ## platforms and tutorials
 
@@ -31,7 +32,7 @@ Sqli-labs配套攻略
 6.08 web安全入门功法通关秘籍第一式:[《菩提心法：网络空间绝不是法外之地》](https://withzz.com/live/164)  
 6.10 web安全入门功法通关秘籍第二式:[《多罗叶指：web安全之OWASP TOP10漏洞](https://withzz.com/live/177)  
 6.12 web安全入门功法通关秘籍第三式:[《注入攻击：web安全之SQL注入漏洞专题》](https://withzz.com/live/192)  
-6.15 web安全入门功法通关秘籍第四式:[《破锋刀法：web安全之文件上传漏洞专题》]  
+6.15 web安全入门功法通关秘籍第四式:[《破锋刀法：web安全之文件上传漏洞专题》] (https://www.withzz.com/live/195) 
 6.17 web安全入门功法通关秘籍第五式:[《一脉神剑：web安全之XSS漏洞专题]  
 6.17 web安全入门功法通关秘籍第六式:[《擒拿手：web安全之命令执行漏洞专题]  
 6.19 web安全入门功法通关秘籍第七式:[《七伤拳：web安全之文件包含漏洞专题》]  
