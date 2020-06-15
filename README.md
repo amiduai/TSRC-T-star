@@ -5,7 +5,7 @@
 
 ## tools  
 [burp suite installation](https://blog.csdn.net/LUOBIKUN/article/details/87457545?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase)   
-sqlmap  
+[sqlmap](https://github.com/sqlmapproject/sqlmap)
 
 ## platforms
 
@@ -29,4 +29,5 @@ sqlmap
 6.21 web安全入门功法通关秘籍第八式:[《无相劫指：web安全之其他漏洞专题》]  
 
 ## blogs 
+[SQL注入检测框架](https://www.dopeboy.tech/23.html)  
 
