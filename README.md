@@ -13,6 +13,7 @@
 
 #### 1.SQL-injection
 
+[sql在线练习](http://sqlfiddle.com/)   
 [Sqli-labs](https://github.com/Audi-1/sqli-labs)  
 
 Sqli-labs配套攻略  
