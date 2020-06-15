@@ -1,6 +1,6 @@
 # TSRC
 漏洞挖掘学习之路。 
-![image](https://github.com/amiduai/TSRC/blob/master/pics/QQ%E5%9B%BE%E7%89%8720200611230535.jpg)  
+
 
 
 ## tools  
